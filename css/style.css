@@ -1,0 +1,12 @@
+.imgs img{
+    width: 120px;
+}
+.bg .carousel-item{
+    background-color: #fceae8;
+    border-radius: 1em;
+}
+.footer{
+    border: 0;
+    background-color: white;
+}
+/* use your own class to modify a style */
